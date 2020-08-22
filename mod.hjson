@@ -1,0 +1,6 @@
+name: "op-scatter"
+displayName: "OP Scatter"
+author: "iogame"
+description: "that's it."
+version: "h"
+minGameVersion: "104"
